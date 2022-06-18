@@ -4,5 +4,55 @@
   "artist": "Takehiko Inoue",
   "author": "Takehiko Inoue",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30051-Lfej2WdOZty5.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Sakuragi-kun",
+      "volume": "1",
+      "last_updated": 1655574300,
+      "groups": {
+        "": [
+          "https://i.redd.it/63w4ejrpne691.jpg",
+          "https://i.redd.it/ogn6imrpne691.png",
+          "https://i.redd.it/qwnhnprpne691.png",
+          "https://i.redd.it/b3xkfpspne691.png",
+          "https://i.redd.it/c12e9zrpne691.png",
+          "https://i.redd.it/1tjcwgspne691.png",
+          "https://i.redd.it/4vgm5krpne691.png",
+          "https://i.redd.it/hy7xwurpne691.png",
+          "https://i.redd.it/6uv82rspne691.png",
+          "https://i.redd.it/qivsnnspne691.png",
+          "https://i.redd.it/nioaikspne691.png",
+          "https://i.redd.it/pvmm40spne691.png",
+          "https://i.redd.it/9hc6jnrpne691.png",
+          "https://i.redd.it/cnmi6dspne691.png",
+          "https://i.redd.it/4meghurpne691.png",
+          "https://i.redd.it/u4lj5rrpne691.png",
+          "https://i.redd.it/85vwhtrpne691.png",
+          "https://i.redd.it/k6pbs8spne691.png",
+          "https://i.redd.it/xjzzshspne691.png",
+          "https://i.redd.it/vyzuqvrpne691.png",
+          "https://i.redd.it/63w4ejrpne691.jpg",
+          "https://i.redd.it/ogn6imrpne691.png",
+          "https://i.redd.it/qwnhnprpne691.png",
+          "https://i.redd.it/b3xkfpspne691.png",
+          "https://i.redd.it/c12e9zrpne691.png",
+          "https://i.redd.it/1tjcwgspne691.png",
+          "https://i.redd.it/4vgm5krpne691.png",
+          "https://i.redd.it/hy7xwurpne691.png",
+          "https://i.redd.it/6uv82rspne691.png",
+          "https://i.redd.it/qivsnnspne691.png",
+          "https://i.redd.it/nioaikspne691.png",
+          "https://i.redd.it/pvmm40spne691.png",
+          "https://i.redd.it/9hc6jnrpne691.png",
+          "https://i.redd.it/cnmi6dspne691.png",
+          "https://i.redd.it/4meghurpne691.png",
+          "https://i.redd.it/u4lj5rrpne691.png",
+          "https://i.redd.it/85vwhtrpne691.png",
+          "https://i.redd.it/k6pbs8spne691.png",
+          "https://i.redd.it/xjzzshspne691.png",
+          "https://i.redd.it/vyzuqvrpne691.png"
+        ]
+      }
+    }
+  }
 }
